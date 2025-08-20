@@ -19,5 +19,6 @@ Este proyecto es una aplicación de **chat en tiempo real** construida con **Nod
 - **Tailwind CSS**: Framework CSS utilitario para un diseño moderno y responsivo.
 - **Turso**: Base de datos SQL serverless, rápida y ligera.
 
-✨ Autor 
+## ✨ Autor
+
 Desarrollado por Hernán Esteche.
