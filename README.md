@@ -19,10 +19,5 @@ Este proyecto es una aplicación de **chat en tiempo real** construida con **Nod
 - **Tailwind CSS**: Framework CSS utilitario para un diseño moderno y responsivo.
 - **Turso**: Base de datos SQL serverless, rápida y ligera.
 
-## ⚡ Cómo ejecutar el proyecto
-
-1. Clonar el repositorio:
-   ```bash
-   git clone https://github.com/tuusuario/websocket-chat.git
-   cd websocket-chat
-   ```
+✨ Autor 
+Desarrollado por Hernán Esteche.
